@@ -2,8 +2,8 @@
   "name": "website",
   "version": "0.0.0",
   "scripts": {
-    "start": "npm run dev --port 4173",
-    "dev": "vite",
+    "start": "npm run dev ",
+    "dev": "vite --port 4173",
     "build": "vite build",
     "preview": "vite preview --port 4173"
   },
